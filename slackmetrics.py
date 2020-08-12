@@ -1,3 +1,5 @@
+#initial test to ensure that the slcakbot can receive & process data 
+
 import random
 
 class SlackMetrics:

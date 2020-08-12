@@ -1,3 +1,5 @@
+#test to check auth is functioning
+
 from slack import WebClient
 from slackmetrics import SlackMetrics
 import os
