@@ -1,0 +1,688 @@
+[
+    {
+        "created": 1590297291,
+        "creator": "U014W5WJDU0",
+        "id": "C013RJ9LSMD",
+        "is_archived": false,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": true,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "general",
+        "name_normalized": "general",
+        "num_members": 3,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "U014W5WJDU0",
+            "last_set": 1590297291,
+            "value": "This channel is for workspace-wide communication and announcements. All members are in this channel."
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "U014W5WJDU0",
+            "last_set": 1590297291,
+            "value": "Company-wide announcements and work-based matters"
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1590616552,
+        "creator": "U0146GURJV9",
+        "id": "C0146DUSW6S",
+        "is_archived": false,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "incubator",
+        "name_normalized": "incubator",
+        "num_members": 3,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [
+            "incubatorapplications"
+        ],
+        "purpose": {
+            "creator": "U014W5WJDU0",
+            "last_set": 1594768629,
+            "value": "Channel for incubator related issues"
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1590297291,
+        "creator": "U014W5WJDU0",
+        "id": "C014CFZ0DFE",
+        "is_archived": false,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": true,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "random",
+        "name_normalized": "random",
+        "num_members": 5,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "U014W5WJDU0",
+            "last_set": 1590297291,
+            "value": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels."
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "U014W5WJDU0",
+            "last_set": 1590297291,
+            "value": "Non-work banter and water cooler conversation"
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1590780102,
+        "creator": "U014W5WJDU0",
+        "id": "C014GKQ99NH",
+        "is_archived": false,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "team-marketing",
+        "name_normalized": "team-marketing",
+        "num_members": 2,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "U014W5WJDU0",
+            "last_set": 1590780103,
+            "value": "discussions about marketing strategy"
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1590297291,
+        "creator": "U014W5WJDU0",
+        "id": "C014JV0Q081",
+        "is_archived": false,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "foundations",
+        "name_normalized": "foundations",
+        "num_members": 4,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1590780198,
+        "creator": "U014W5WJDU0",
+        "id": "C014WKVQUFK",
+        "is_archived": false,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "compete",
+        "name_normalized": "compete",
+        "num_members": 2,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "U014W5WJDU0",
+            "last_set": 1590780198,
+            "value": "competitive intelligence"
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1592343695,
+        "creator": "U0146GURJV9",
+        "id": "C015J62P50A",
+        "is_archived": false,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "research",
+        "name_normalized": "research",
+        "num_members": 2,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "U0146GURJV9",
+            "last_set": 1592343696,
+            "value": "Bookmarks to related science, tech, business"
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1596146716,
+        "creator": "U0146GURJV9",
+        "id": "C017UN1069L",
+        "is_archived": true,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "test2",
+        "name_normalized": "test2",
+        "num_members": 0,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "U0146GURJV9",
+            "last_set": 1596146717,
+            "value": "Zapier test"
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1596144928,
+        "creator": "U0146GURJV9",
+        "id": "C01801LLXS9",
+        "is_archived": true,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "testzapier",
+        "name_normalized": "testzapier",
+        "num_members": 0,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1596147802,
+        "creator": "U0146GURJV9",
+        "id": "C01803YLAVB",
+        "is_archived": true,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "test-again",
+        "name_normalized": "test-again",
+        "num_members": 0,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "U0146GURJV9",
+            "last_set": 1596147803,
+            "value": "testing zapier"
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1596148762,
+        "creator": "U0146GURJV9",
+        "id": "C01804N92R3",
+        "is_archived": true,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "boring-test",
+        "name_normalized": "boring-test",
+        "num_members": 0,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "U0146GURJV9",
+            "last_set": 1596148763,
+            "value": "damn zapier"
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1596164215,
+        "creator": "U014W5WJDU0",
+        "id": "C0180D0D5EZ",
+        "is_archived": false,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "quick-wins",
+        "name_normalized": "quick-wins",
+        "num_members": 2,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "U014W5WJDU0",
+            "last_set": 1596164215,
+            "value": "test channel"
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1596149064,
+        "creator": "U0146GURJV9",
+        "id": "C0181FT0RUJ",
+        "is_archived": false,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "yet-another-test",
+        "name_normalized": "yet-another-test",
+        "num_members": 2,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "U0146GURJV9",
+            "last_set": 1596149065,
+            "value": "zapier"
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1595269124,
+        "creator": "U0146GURJV9",
+        "id": "C0183T6511N",
+        "is_archived": false,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "mvp-engineering",
+        "name_normalized": "mvp-engineering",
+        "num_members": 3,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1596147076,
+        "creator": "U0146GURJV9",
+        "id": "C0187KUNV8C",
+        "is_archived": true,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "test3",
+        "name_normalized": "test3",
+        "num_members": 0,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "U0146GURJV9",
+            "last_set": 1596147077,
+            "value": "zapier test"
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1596162795,
+        "creator": "U0146GURJV9",
+        "id": "C0187UU29MJ",
+        "is_archived": false,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "private-channel-test",
+        "name_normalized": "private-channel-test",
+        "num_members": 1,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1597286066,
+        "creator": "U014W5WJDU0",
+        "id": "C018QMAGP7F",
+        "is_archived": false,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": true,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "tests",
+        "name_normalized": "tests",
+        "num_members": 3,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "U014W5WJDU0",
+            "last_set": 1597286067,
+            "value": "bot testing playground"
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    },
+    {
+        "created": 1597351854,
+        "creator": "U0191EVU0SD",
+        "id": "C0190AH42JG",
+        "is_archived": false,
+        "is_channel": true,
+        "is_ext_shared": false,
+        "is_general": false,
+        "is_group": false,
+        "is_im": false,
+        "is_member": false,
+        "is_mpim": false,
+        "is_org_shared": false,
+        "is_pending_ext_shared": false,
+        "is_private": false,
+        "is_shared": false,
+        "name": "sai",
+        "name_normalized": "sai",
+        "num_members": 1,
+        "parent_conversation": null,
+        "pending_connected_team_ids": [],
+        "pending_shared": [],
+        "previous_names": [],
+        "purpose": {
+            "creator": "U0191EVU0SD",
+            "last_set": 1597351855,
+            "value": "ramesh channel"
+        },
+        "shared_team_ids": [
+            "T0144UYHNGM"
+        ],
+        "topic": {
+            "creator": "",
+            "last_set": 0,
+            "value": ""
+        },
+        "unlinked": 0
+    }
+]
